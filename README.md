@@ -1,6 +1,6 @@
 # Exercicios Python
-Exercicios feitos durante o curso de __Python3__ do __Mundo2__ do **Curso Em Vídeo**
+Exercicios feitos durante o **Curso Em Vídeo** de _Python3_-_Mundo2_
+***
+Atualmente fiz todos exercícios (36 ao 45) da Aula 12 sobre: Condições Aninhadas
 
-Atualmente fiz todos exercícios (36 ao 45) da Aula 12 sobre: _Condições Aninhadas_
-
-Estou iniciando a Aula 13 sobre:_Estrutura de repetição for_
+Estou iniciando a Aula 13 sobre: Estrutura de repetição for
