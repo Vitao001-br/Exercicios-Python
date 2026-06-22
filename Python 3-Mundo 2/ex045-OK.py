@@ -1,5 +1,6 @@
 #NAO ENTENDI MUITO COMO FAZER ESSE EXERCICIO
 #FUI VENDO A AULA E FAZENDO,E CORRIGINDO DEPOIS JUNTO COM O PROFESSOR
+#EU QUE ADICIONEI CORES
 #
 from random import randint   #importar um numero inteiro random
 from time import sleep       #importar uma pausa entre frases, por exemplo no JO KEN PO
